@@ -1,9 +1,9 @@
 {
   "name": "workiz-mcp-server",
-  "version": "1.6.0",
-  "tag": "v1.6.0",
-  "url": "https://github.com/esnynetworks/workiz-mcp/releases/tag/v1.6.0",
+  "version": "1.7.0",
+  "tag": "v1.7.0",
+  "url": "https://github.com/esnynetworks/workiz-mcp/releases/tag/v1.7.0",
   "releases": "https://github.com/esnynetworks/workiz-mcp/releases",
-  "published_at": "2026-10-19T00:58:59Z",
-  "updated_at": "2026-10-19T00:59:00.540Z"
+  "published_at": "2026-11-12T09:42:01Z",
+  "updated_at": "2026-11-12T09:42:04.084Z"
 }
